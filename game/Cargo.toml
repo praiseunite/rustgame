@@ -1,0 +1,11 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+piston = "*"
+piston2d-graphics = "*"
+piston_window = "*"
+rand = "*" 
+find_folder = "*"
